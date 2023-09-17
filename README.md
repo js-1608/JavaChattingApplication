@@ -1,6 +1,8 @@
 # JavaChattingApplication
 
-INTRODUCTION
+*INTRODUCTION*
+
+
 Chatting Application is a desktop based application.
 This client server chat application is based on java swing and used socket package. its
 simple and easy and require only core java knowledge. I have taken this program from
@@ -19,7 +21,7 @@ socket connections which are a fundamental part of socket programming.
 
 Keywords: sockets, client-server, Java network programming-socketfunctions, Multicasting etc.
 
-MAIN OBJECTIVE
+*MAIN OBJECTIVE*
 The aim of this project is to express how we can implement a simple chat application
 between a server and a client? The application is a desktop based application and is
 implemented using Swing and awt. The project is developed in Java SE language executed on
@@ -28,7 +30,7 @@ Application consists of two programs:
 Server
 Client
 Server
-The server module of the application waits for the client to connect to it. Then if connection
+The server module of the application waits for the client to connect to it.
 is granted a client interacts communicates and connects to the server, it can mutually
 communicate with the server. The duty of the server is to let clients exchange the messages.
 Client
